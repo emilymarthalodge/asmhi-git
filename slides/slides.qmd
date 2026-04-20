@@ -1072,20 +1072,28 @@ Never work directly on `main` — create a **feature branch** for each piece of 
 
 ## A simple workflow to follow
 
-When you start work:
+:::: {.columns}
+
+::: {.column style="width:48%; flex:0 0 48%;"}
+**When you start work**
 
 1. Pull the latest version of `main`
 2. Create a new feature branch
 
-While working:
+**While working**
 
 3. Make small commits with clear messages
+:::
 
-When finished:
+::: {.column style="width:52%; flex:0 0 52%;"}
+**When finished**
 
 4. Push your branch to GitHub
 5. Open a Pull Request
 6. Get it reviewed and merged
+:::
+
+::::
 
 ---
 
@@ -1125,14 +1133,6 @@ When finished:
 [Excuse me, do you have a moment to talk about version control?](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1399928)
 : Bryan (2018) — the academic case for version control in research.
 
----
-
-::: {.center style="font-size: 2.4em; font-weight: 600; text-align: center;"}
-5-minute break
-:::
-
----
-
 ## Exercises
 
 ::: {style="font-size:1.3em;"}
@@ -1144,7 +1144,7 @@ When finished:
 :::
 
 <div style="text-align: center; margin-top: 0.5em; font-size: 1.8em;">
-<a href="https://tinyurl.com/brc-git-github"><code>tinyurl.com/brc-git-github</code></a>
+<a href="https://ewancarr.github.io/asmhi-git/"><code>ewancarr.github.io/asmhi-git/</code></a>
 </div>
 
 
